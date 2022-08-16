@@ -1,0 +1,99 @@
+2022-08-16 12:30:02 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Started
+2022-08-16 12:30:02 ERROR CommonMethods - Not Sucessfully clicked on Username_XPATH due to :null
+2022-08-16 12:30:02 ERROR CommonMethods - Data Not Sucessfully entered on Username_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:30:02 ERROR CommonMethods - Not Sucessfully clicked on Password_XPATH due to :null
+2022-08-16 12:30:02 ERROR CommonMethods - Data Not Sucessfully entered on Password_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:30:02 ERROR CommonMethods - Not Sucessfully clicked on LoginButton_XPATH due to :null
+2022-08-16 12:30:02 ERROR CommonMethods - Unable to mouse hover due to null
+2022-08-16 12:30:02 ERROR TestBase -  _ TOVERIFYSRISGETTINGCREATED _ : Get Failed
+null
+2022-08-16 12:32:06 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Started
+2022-08-16 12:32:06 ERROR CommonMethods - Not Sucessfully clicked on Username_XPATH due to :null
+2022-08-16 12:32:06 ERROR CommonMethods - Data Not Sucessfully entered on Username_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:32:06 ERROR CommonMethods - Not Sucessfully clicked on Password_XPATH due to :null
+2022-08-16 12:32:06 ERROR CommonMethods - Data Not Sucessfully entered on Password_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:32:06 ERROR CommonMethods - Not Sucessfully clicked on LoginButton_XPATH due to :null
+2022-08-16 12:32:06 ERROR CommonMethods - Unable to mouse hover due to null
+2022-08-16 12:32:06 ERROR TestBase -  _ TOVERIFYSRISGETTINGCREATED _ : Get Failed
+null
+2022-08-16 12:34:38 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Started
+2022-08-16 12:34:38 ERROR CommonMethods - Not Sucessfully clicked on Username_XPATH due to :null
+2022-08-16 12:34:38 ERROR CommonMethods - Data Not Sucessfully entered on Username_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:34:38 ERROR CommonMethods - Not Sucessfully clicked on Password_XPATH due to :null
+2022-08-16 12:34:38 ERROR CommonMethods - Data Not Sucessfully entered on Password_XPATH due to :Cannot invoke "org.openqa.selenium.WebDriver.findElement(org.openqa.selenium.By)" because "com.crm.utilities.CommonMethods.driver" is null
+2022-08-16 12:34:38 ERROR CommonMethods - Not Sucessfully clicked on LoginButton_XPATH due to :null
+2022-08-16 12:34:38 ERROR CommonMethods - Unable to mouse hover due to null
+2022-08-16 12:34:38 ERROR TestBase -  _ TOVERIFYSRISGETTINGCREATED _ : Get Failed
+null
+2022-08-16 12:35:15 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Started
+2022-08-16 12:35:16 INFO  WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-08-16 12:35:16 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\kumuad.sagar\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-08-16 12:35:17 INFO  TestBase - Browser launched
+2022-08-16 12:35:23 INFO  TestBase - URL : https://axistest.crmnext.com/snAutomation/app/login/login
+2022-08-16 12:35:23 INFO  CommonMethods - Sucessfully clicked on Username_XPATH
+2022-08-16 12:35:23 INFO  CommonMethods - Data sucessfully entered on Username_XPATH = initiator
+2022-08-16 12:35:23 INFO  CommonMethods - Sucessfully clicked on Password_XPATH
+2022-08-16 12:35:23 INFO  CommonMethods - Data sucessfully entered on Password_XPATH = acid_qa
+2022-08-16 12:35:37 INFO  CommonMethods - Sucessfully clicked on LoginButton_XPATH
+2022-08-16 12:36:02 INFO  CommonMethods - Sucessfully clicked on srcreationStandardWorkFLow_XPATH
+2022-08-16 12:36:05 INFO  CommonMethods - Sucessfully clicked on lodgementTeamSearchicon_XPATH
+2022-08-16 12:36:05 INFO  CommonMethods - Sucessfully clicked on inputSearchTextBox_XPATH
+2022-08-16 12:36:05 INFO  CommonMethods - Data sucessfully entered on inputSearchTextBox_XPATH = CPU Dedupe
+2022-08-16 12:36:05 INFO  CommonMethods - Sucessfully clicked on filterarrowbutton_XPATH
+2022-08-16 12:36:12 INFO  CommonMethods - Sucessfully clicked on selectproductarrowbutton_XPATH
+2022-08-16 12:36:15 INFO  CommonMethods - Data = Prospect Customer Sucessfully Selected from dropdown accountCardDetailSearchParatameterDropdown_XPATH
+2022-08-16 12:36:15 INFO  CommonMethods - Sucessfully clicked on function_XPATH
+2022-08-16 12:36:15 INFO  CommonMethods - Data sucessfully entered on function_XPATH = Account Maintenance
+2022-08-16 12:36:19 INFO  CommonMethods - Sucessfully clicked on subFunction_XPATH
+2022-08-16 12:36:19 INFO  CommonMethods - Data sucessfully entered on subFunction_XPATH = Customer Details Maintenance
+2022-08-16 12:36:23 INFO  CommonMethods - Sucessfully clicked on subsubFunction_XPATH
+2022-08-16 12:36:23 INFO  CommonMethods - Data sucessfully entered on subsubFunction_XPATH = Customer Details Maintenance
+2022-08-16 12:37:45 INFO  CommonMethods - Sucessfully clicked on NatureOfQuery_XPATH
+2022-08-16 12:37:45 INFO  CommonMethods - Data sucessfully entered on NatureOfQuery_XPATH = Request
+2022-08-16 12:37:50 ERROR CommonMethods - Not Sucessfully clicked on remarkfield_XPATH due to :element click intercepted: Element <textarea name="cust_136484" class="textarea field__item textarea--charlimit" maxlength="2056" rows="5" data-autoid="cust_136484_ctrl"></textarea> is not clickable at point (533, 284). Other element would receive the click: <div class="object-action-inner">...</div>
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KUMUADS', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KUMUAD~1.SAG\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:57961}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 023e75aca740b716bd764ed51e1b3268
+2022-08-16 12:37:51 INFO  CommonMethods - Data sucessfully entered on remarkfield_XPATH = test
+2022-08-16 12:37:53 INFO  CommonMethods - Sucessfully clicked on saveandProceedButton_XPATH
+2022-08-16 12:41:10 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Started
+2022-08-16 12:41:11 INFO  WebDriverManager - Using chromedriver 102.0.5005.61 (resolved driver for Chrome 102)
+2022-08-16 12:41:11 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\kumuad.sagar\.cache\selenium\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-08-16 12:41:12 INFO  TestBase - Browser launched
+2022-08-16 12:41:14 INFO  TestBase - URL : https://axistest.crmnext.com/snAutomation/app/login/login
+2022-08-16 12:41:14 INFO  CommonMethods - Sucessfully clicked on Username_XPATH
+2022-08-16 12:41:14 INFO  CommonMethods - Data sucessfully entered on Username_XPATH = initiator
+2022-08-16 12:41:15 INFO  CommonMethods - Sucessfully clicked on Password_XPATH
+2022-08-16 12:41:15 INFO  CommonMethods - Data sucessfully entered on Password_XPATH = acid_qa
+2022-08-16 12:41:28 INFO  CommonMethods - Sucessfully clicked on LoginButton_XPATH
+2022-08-16 12:41:48 INFO  CommonMethods - Sucessfully clicked on srcreationStandardWorkFLow_XPATH
+2022-08-16 12:41:50 INFO  CommonMethods - Sucessfully clicked on lodgementTeamSearchicon_XPATH
+2022-08-16 12:41:50 INFO  CommonMethods - Sucessfully clicked on inputSearchTextBox_XPATH
+2022-08-16 12:41:51 INFO  CommonMethods - Data sucessfully entered on inputSearchTextBox_XPATH = CPU Dedupe
+2022-08-16 12:41:51 INFO  CommonMethods - Sucessfully clicked on filterarrowbutton_XPATH
+2022-08-16 12:41:58 INFO  CommonMethods - Sucessfully clicked on selectproductarrowbutton_XPATH
+2022-08-16 12:42:02 INFO  CommonMethods - Data = Prospect Customer Sucessfully Selected from dropdown accountCardDetailSearchParatameterDropdown_XPATH
+2022-08-16 12:42:02 INFO  CommonMethods - Sucessfully clicked on function_XPATH
+2022-08-16 12:42:03 INFO  CommonMethods - Data sucessfully entered on function_XPATH = Account Maintenance
+2022-08-16 12:42:06 INFO  CommonMethods - Sucessfully clicked on subFunction_XPATH
+2022-08-16 12:42:07 INFO  CommonMethods - Data sucessfully entered on subFunction_XPATH = Customer Details Maintenance
+2022-08-16 12:42:11 INFO  CommonMethods - Sucessfully clicked on subsubFunction_XPATH
+2022-08-16 12:42:11 INFO  CommonMethods - Data sucessfully entered on subsubFunction_XPATH = CIF ID Replacement And Suspension
+2022-08-16 12:42:17 INFO  CommonMethods - Sucessfully clicked on NatureOfQuery_XPATH
+2022-08-16 12:42:17 INFO  CommonMethods - Data sucessfully entered on NatureOfQuery_XPATH = Request
+2022-08-16 12:42:29 ERROR CommonMethods - Not Sucessfully clicked on remarkfield_XPATH due to :element click intercepted: Element <textarea name="cust_136484" class="textarea field__item textarea--charlimit" maxlength="2056" rows="5" data-autoid="cust_136484_ctrl"></textarea> is not clickable at point (533, 610). Other element would receive the click: <div class="object-action-inner">...</div>
+  (Session info: chrome=102.0.5005.115)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KUMUADS', ip: '192.168.0.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '18.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 102.0.5005.115, chrome: {chromedriverVersion: 102.0.5005.61 (0e59bcc00cc4..., userDataDir: C:\Users\KUMUAD~1.SAG\AppDa...}, goog:chromeOptions: {debuggerAddress: localhost:58379}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 885031a7b92f0c04847e18e4772fa4b7
+2022-08-16 12:42:30 INFO  CommonMethods - Data sucessfully entered on remarkfield_XPATH = test
+2022-08-16 12:42:33 INFO  CommonMethods - Sucessfully clicked on saveandProceedButton_XPATH
+2022-08-16 12:43:02 INFO  CommonMethods - Sucessfully clicked on profileimage_XPATH
+2022-08-16 12:43:04 INFO  CommonMethods - Sucessfully clicked on LogoutButton_XPATH
+2022-08-16 12:43:04 INFO  TestBase - Test Case_  TOVERIFYSRISGETTINGCREATED _Successfully Passed
+2022-08-16 12:43:04 INFO  TestBase - Browser closed
